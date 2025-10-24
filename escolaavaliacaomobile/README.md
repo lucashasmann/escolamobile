@@ -101,7 +101,7 @@ npx expo start
 
 ### 1. Tela de Login
 
-![Login](./docs/teladelogin.png)
+![Login](./docs/tela_de_login.png)
 
 ### 2. Tela de Dashboard
 
