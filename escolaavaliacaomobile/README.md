@@ -121,4 +121,3 @@ npx expo start
 
 ---
 
-> **Observação:** Coloque as imagens das telas na pasta `screenshots` no diretório raiz do projeto.
