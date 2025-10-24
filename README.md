@@ -101,7 +101,7 @@ npx expo start
 
 ### 1. Tela de Login
 
-![Login](./docs/teladelogin.png)
+![Login](./docs/tela_de_login.png)
 
 ### 2. Tela de Dashboard
 
@@ -121,4 +121,3 @@ npx expo start
 
 ---
 
-> **Observação:** Coloque as imagens das telas na pasta `screenshots` no diretório raiz do projeto.
