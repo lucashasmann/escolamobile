@@ -101,23 +101,23 @@ npx expo start
 
 ### 1. Tela de Login
 
-![Login](./docs/tela_de_login.png)
+![Login] ![alt text](tela_de_login.png)
 
 ### 2. Tela de Dashboard
 
-![Dashboard](./docs/dashboard.png)
+![Dashboard] ![alt text](dashboard.png)
 
 ### 3. Tela de Cadastrar Turma
 
-![Cadastrar Turma](./docs/CadastrarTurma.png)
+![Cadastrar Turma] ![alt text](CadastrarTurma.png)
 
 ### 4. Tela de Atividades
 
-![Atividades](./docs/atividades.png)
+![Atividades] ![alt text](atividades.png)
 
 ### 5. Tela de Cadastrar Atividade
 
-![Cadastrar Atividade](./docs/CadastrarAtividade.png)
+![Cadastrar Atividade] ![alt text](CadastrarAtividade.png)
 
 ---
 
